@@ -10,3 +10,5 @@ Push into anki: -> not sure when this is new
 ki push
 
 
+# Some docs on git submodules...
+https://gist.github.com/gitaarik/8735255

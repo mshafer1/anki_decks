@@ -1,0 +1,3 @@
+[submodule "ccna"]
+	path = ccna
+	url = https://github.com/mshafer1/anki__ccna.git
